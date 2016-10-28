@@ -12,7 +12,7 @@
 </head>
 <body>
     <form action="add" method="get">
-        <h3>You have some errors in input test2:( </h3>
+        <h3>You have some errors in input test3:( </h3>
         <input type="submit" value="Back"/>
     </form>
 </body>
